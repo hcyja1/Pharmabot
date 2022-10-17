@@ -25,3 +25,5 @@ the project is extracted
 
 10) Open google chrome and go to localhost:50000
 
+Note : Counselling 1-3 Dialogflow JSON file not supplied as it contains sensitive data. 
+
