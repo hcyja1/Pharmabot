@@ -27,3 +27,15 @@ the project is extracted
 
 Note : Counselling 1-3 Dialogflow JSON file not supplied as it contains sensitive data. 
 
+Login and Registration:
+
+![register](https://user-images.githubusercontent.com/73547478/209741541-2dbfc13f-c722-4d54-9314-9adc4a337a22.png)
+
+Select exercise:
+![select](https://user-images.githubusercontent.com/73547478/209741546-376b13d2-1555-4a5c-beba-9133ccb02a08.png)
+
+Start session:
+![start ses](https://user-images.githubusercontent.com/73547478/209741556-a0481dcb-47d7-4dcf-af13-7fad184a4e02.png)
+
+End session:
+![end ses](https://user-images.githubusercontent.com/73547478/209741563-54f99227-532a-4b04-9851-33c83dc214cf.png)
